@@ -1,0 +1,30 @@
+@import url('../tpg-shortcode.min.css');
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+#tpg-preview-container .rt-tpg-utility .rt-tgp-load-more button {
+    border: 0;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+.rt-tpg-container .rt-tpg-isotope-buttons button{
+    font-size: 13.333px;
+    cursor: pointer;
+}
+.rt-tpg-container .rt-tpg-isotope-buttons .selected{
+    color: #ffffff;
+}
+.rt-tpg-container a{ text-decoration: none; }
+.rt-tpg-container .layout11 .rt-holder h3 {
+    font-size: 24px;
+}
+.rt-tpg-container .rt-img-holder img,
+.rt-tpg-container .rt-holder img {
+    max-width: 100%;
+    height: auto;
+}
+.tpg-widget-heading-wrapper.center .tpg-widget-heading {
+    font-size: 30px;
+    font-weight: bold;
+}
+#rttpg_sc_preview_meta {
+    overflow: hidden;
+}

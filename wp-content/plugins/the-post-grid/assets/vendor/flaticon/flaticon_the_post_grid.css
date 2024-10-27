@@ -1,0 +1,94 @@
+@font-face {
+    font-family: "flaticon_the_post_grid";
+    src: url("./flaticon_the_post_grid.ttf?dd949169929eab44f4d2133b01c9e438") format("truetype"),
+url("./flaticon_the_post_grid.woff?dd949169929eab44f4d2133b01c9e438") format("woff"),
+url("./flaticon_the_post_grid.woff2?dd949169929eab44f4d2133b01c9e438") format("woff2"),
+url("./flaticon_the_post_grid.eot?dd949169929eab44f4d2133b01c9e438#iefix") format("embedded-opentype"),
+url("./flaticon_the_post_grid.svg?dd949169929eab44f4d2133b01c9e438#flaticon_the_post_grid") format("svg");
+}
+
+.builder-content i[class^="flaticon-"]:before,
+.rt-tpg-container i[class^="flaticon-"]:before,
+.rt-tpg-container i[class*=" flaticon-"]:before {
+    font-family: flaticon_the_post_grid !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-user:before {
+    content: "\f101";
+}
+.flaticon-calendar:before {
+    content: "\f102";
+}
+.flaticon-tag:before {
+    content: "\f103";
+}
+.flaticon-folder:before {
+    content: "\f104";
+}
+.flaticon-message:before {
+    content: "\f105";
+}
+.flaticon-chat:before {
+    content: "\f106";
+}
+.flaticon-visible:before {
+    content: "\f107";
+}
+.flaticon-left:before {
+    content: "\f108";
+}
+.flaticon-right:before {
+    content: "\f109";
+}
+.flaticon-right-arrow:before {
+    content: "\f10a";
+}
+.flaticon-right-1:before {
+    content: "\f10b";
+}
+.flaticon-left-arrow:before {
+    content: "\f10c";
+}
+.flaticon-pinterest:before {
+    content: "\f10d";
+}
+.flaticon-mail:before {
+    content: "\f10e";
+}
+.flaticon-email:before {
+    content: "\f10f";
+}
+.flaticon-add:before {
+    content: "\f110";
+}
+.flaticon-plus:before {
+    content: "\f111";
+}
+.flaticon-facebook:before {
+    content: "\f112";
+}
+.flaticon-twitter-x:before {
+    content: "\f113";
+}
+.flaticon-instagram:before {
+    content: "\f114";
+}
+.flaticon-youtube:before {
+    content: "\f115";
+}
+.flaticon-google-plus:before {
+    content: "\f116";
+}
+.flaticon-reddit:before {
+    content: "\f117";
+}
+.flaticon-linkedin:before {
+    content: "\f118";
+}

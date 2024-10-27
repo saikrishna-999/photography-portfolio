@@ -1,0 +1,27 @@
+@charset "UTF-8";
+::-moz-placeholder {
+  color: gray;
+}
+:-ms-input-placeholder {
+  color: gray;
+}
+::placeholder {
+  color: gray;
+}
+
+body {
+  background: red;
+}
+
+@media (min-width: 1200px) {
+  /* Chung Nguyễn Blog */
+  .name {
+    height: 168px;
+  }
+  /* Website */
+  .webiste {
+    font-weight: bold;
+  }
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiYXNzZXRzL2Nzcy9jb21tb24uY3NzIiwibWFwcGluZ3MiOiJBQUFBLGdCQUFnQjtBQ0FoQjtFQUNJO0FERUo7QUNIQTtFQUNJO0FERUo7QUNIQTtFQUNJO0FERUo7O0FDQUE7RUFDSTtBREdKOztBQ0FBO0VBQ0k7RUFDQTtJQUNJO0VER047RUFURTtFQUNBO0lBQ0k7RUFhTjtBQUxGLEMiLCJzb3VyY2VzIjpbIi4vc3JjL3Njc3MvY29tbW9uLnNjc3MiLCIuL3NyYy9zY3NzL2VkaXRvci5zY3NzIl0sInNvdXJjZXNDb250ZW50IjpbIkBpbXBvcnQgXCJlZGl0b3JcIjtcclxuXHJcblxyXG5AbWVkaWEgKG1pbi13aWR0aDogMTIwMHB4KSB7XHJcbiAgICAvKiBXZWJzaXRlICovXHJcbiAgICAud2ViaXN0ZSB7XHJcbiAgICAgICAgZm9udC13ZWlnaHQ6IGJvbGQ7XHJcbiAgICB9XHJcbn0iLCI6OnBsYWNlaG9sZGVyIHtcclxuICAgIGNvbG9yOiBncmF5O1xyXG59XHJcbmJvZHl7XHJcbiAgICBiYWNrZ3JvdW5kOiByZWQ7XHJcbn1cclxuXHJcbkBtZWRpYSAobWluLXdpZHRoOiAxMjAwcHgpIHtcclxuICAgIC8qIENodW5nIE5ndXnhu4VuIEJsb2cgKi9cclxuICAgIC5uYW1lIHtcclxuICAgICAgICBoZWlnaHQ6IDE2OHB4O1xyXG4gICAgfVxyXG59XHJcbiJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==*/
